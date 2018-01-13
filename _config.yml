@@ -223,9 +223,8 @@ plugins:
 
 # Used on index and about sites
  social:
-    name: instagram
-    links:
-      - https://instagram.com/iamcujo
+    name: Instagram
+    links: https://instagram.com/iamcujo
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
