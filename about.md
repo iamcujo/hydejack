@@ -3,7 +3,7 @@ layout: about
 title: About
 description: >
 menu: true
-order: 5
+order: 1
 ---
 
 #### 추호년(iamcujo)
