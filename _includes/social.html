@@ -14,13 +14,6 @@
     {% endif %}
   {% endunless %}
 
-  {% unless include.author.social.linkedin %}
-    {% assign linkedin_username = author.linkedin.username | default: author.linkedin | default:site.linkedin.username | default:site.linkedin | default:site.linkedin_username %}
-    {% if linkedin_username %}
-      {% include social-list-item.html platform="linkedin" username=linkedin_username %}
-    {% endif %}
-  {% endunless %}
-
   {% for link in include.author.social %}
     {% include social-list-item.html platform=link.first username=link.last %}
   {% endfor %}
