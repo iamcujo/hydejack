@@ -31,8 +31,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  개발업무 하면서 생기는 이슈사항들이나 <br> 공부한 내용을 정리하는 블로그입니다.
 
 # A list of keywords for your blog
 keywords:              []
