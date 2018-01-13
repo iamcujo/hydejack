@@ -1,7 +1,7 @@
 ---
 layout: list
-title: TIL
-slug: Today I Learned
+title: Today I Learned
+slug: TIL
 menu: true
 order: 2
 description: >
