@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Today I Learned
-slug: til
+slug: Til
 menu: true
 order: 2
 description: >
