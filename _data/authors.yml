@@ -28,6 +28,7 @@ author1:
   social:
     # twitter:         <username>
     github:          iamcujo
+    linkedin:        iamcujo
     email:           mailto:<iamcujo@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -57,7 +58,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        /in/iamcujo
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
