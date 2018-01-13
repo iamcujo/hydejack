@@ -27,9 +27,7 @@ title:                 생계형개발자
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  개발업무 하면서 생기는 이슈사항들이나 <br> 공부한 내용을 정리하는 블로그입니다.
 
 # A shorter description for the sidebar.
 tagline:               >
