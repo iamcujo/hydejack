@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Etc
-slug: etc
+title: Django
+slug: django
 menu: true
-order: 9
+order: 4
 description: >
 ---
 
