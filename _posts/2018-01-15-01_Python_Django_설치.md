@@ -31,6 +31,4 @@ Django 는 Python 설치 후 Python 명령어를 통해 설치 가능하므로, 
 > pip install django
 ```
 
-Successfully installed django-2.0.1 형태로 출력시 정상 설치. 
-
-설치가 잘못되었다면 pip uninstall django 명령어로 삭제 후 재설치. 
+Successfully installed django-2.0.1 형태로 출력시 정상 설치.  설치가 잘못되었다면 pip uninstall django 명령어로 삭제 후 재설치. 
