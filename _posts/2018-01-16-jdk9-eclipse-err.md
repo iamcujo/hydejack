@@ -11,7 +11,7 @@ tags: [etc]
 
 아래와 같이 javax.annotation 패키지가 클래스 패스에 존재하지 않는다는 에러 로그 확인 가능.
 
-```
+```java
 !MESSAGE Application error !STACK 1 org.eclipse.e4.core.di.InjectionException: java.lang.NoClassDefFoundError: javax/annotation/PostConstruct at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:410) at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318) ... !MESSAGE FrameworkEvent ERROR !STACK 0 java.lang.NoClassDefFoundError: javax/annotation/PreDestroy at org.eclipse.e4.core.internal.di.InjectorImpl.disposed(InjectorImpl.java:450) at org.eclipse.e4.core.internal.di.Requestor.disposed(Requestor.java:156) ...
 ```
 **오류 해결 1**
